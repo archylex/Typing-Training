@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Typing Training</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">TYPING\nTRAINING</string>
+
+    <string name="start_button_title">НАЧАТЬ</string>
+    <string name="settings_button_title">НАСТРОЙКИ</string>
+    <string name="stop_button_training">СТОП</string>
+    <string name="start_button_training">СТАРТ</string>
+    <string name="quit_button_training">ВЫЙТИ</string>
+    <string name="lang_settings_txt">ЯЗЫК</string>
+    <string name="hands_settings_txt">РУКИ</string>
+    <string name="saccess_result">Правильно</string>
+    <string name="wrong_result">Неправильно</string>
+    <string name="speed_result">Скорость</string>
+    <string name="speed_meters_result">симв./мин.</string>
+    <string name="title_result">Результаты</string>
+    <string name="close_button_result">Закрыть</string>
+
+</resources>

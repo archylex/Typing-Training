@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Typing Training</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">TYPING\nTRAINING</string>
+
+    <string name="start_button_title">START</string>
+    <string name="settings_button_title">SETTINGS</string>
+    <string name="stop_button_training">STOP</string>
+    <string name="start_button_training">START</string>
+    <string name="quit_button_training">QUIT</string>
+    <string name="lang_settings_txt">LANGUAGE</string>
+    <string name="hands_settings_txt">HANDS</string>
+    <string name="saccess_result">Success</string>
+    <string name="wrong_result">Wrong</string>
+    <string name="speed_result">Speed</string>
+    <string name="speed_meters_result">ch/m</string>
+    <string name="title_result">Results</string>
+    <string name="close_button_result">Close</string>
+
+</resources>

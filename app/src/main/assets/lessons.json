@@ -1,0 +1,91 @@
+[
+    {
+      "lang": "rus",
+      "content":
+      [
+        {
+          "title": "ва ол",
+          "filename": "ru_lesson_001.txt"
+        },
+        {
+          "title": "фы дж",
+          "filename": "ru_lesson_002.txt"
+        },
+        {
+          "title": "ми ть",
+          "filename": "ru_lesson_003.txt"
+        },
+        {
+          "title": "еп нр",
+          "filename": "ru_lesson_004.txt"
+        },
+        {
+          "title": "ук гш",
+          "filename": "ru_lesson_005.txt"
+        },
+        {
+          "title": "чс бю",
+          "filename": "ru_lesson_006.txt"
+        },
+        {
+          "title": "йц щз",
+          "filename": "ru_lesson_007.txt"
+        },
+        {
+          "title": "я эхъ",
+          "filename": "ru_lesson_008.txt"
+        },
+        {
+          "title": "а - я",
+          "filename": "ru_lesson_009.txt"
+        },
+        {
+          "title": "Сердечная недостаточность",
+          "filename": "lesson1.txt"
+        },
+        {
+          "title": "Кровообращение",
+          "filename": "lesson2.txt"
+        }
+      ]
+    },
+    {
+      "lang": "eng",
+      "content":
+      [
+        {
+          "title": "df jk",
+          "filename": "en_lesson_001.txt"
+        },
+        {
+          "title": "as l;",
+          "filename": "en_lesson_002.txt"
+        },
+        {
+          "title": "vb nm",
+          "filename": "en_lesson_003.txt"
+        },
+        {
+          "title": "tg yh",
+          "filename": "en_lesson_004.txt"
+        },
+        {
+          "title": "er ui",
+          "filename": "en_lesson_005.txt"
+        },
+        {
+          "title": "qw op",
+          "filename": "en_lesson_006.txt"
+        },
+        {
+          "title": "xc ,.",
+          "filename": "en_lesson_007.txt"
+        },
+        {
+          "title": "Cycling Safety",
+          "filename": "lesson_1_en.txt"
+        }
+      ]
+    }
+]
+
