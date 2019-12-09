@@ -1,4 +1,4 @@
-# Typing-Training
+# Typing Training
 Typing Training with a physical keyboard on Android.
 
 Google Play:
